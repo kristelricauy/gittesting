@@ -1,3 +1,5 @@
 <?php
-echo "hello git setup";
+echo "heetup";
+
+echo "second line";
 ?>
